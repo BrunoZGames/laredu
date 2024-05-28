@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.bg-login-wp {
+    background-color: #C1A4A4;
+}
+
+
+
+.nav-bg{
+    background-image: url('../../public/assets/img/fondoNav.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#btn-student-dashboard{
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.11);
+}
+
+.tuPlan{
+    background-image: url('../../public/assets/img/tuPlan.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sociogramBtn{
+    background-image: url('../../public/assets/img/bgSociogram.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jugarBtn{
+    /* background-image: url('../../public/assets/img/Pebble-People-Bust.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+.romboMonlau{
+    background-image: url('../../public/assets/img/romboMonlau2.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
